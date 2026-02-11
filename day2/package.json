@@ -1,0 +1,16 @@
+{
+    "name": "file-io-demo",
+    "version": "1.0.0",
+    "description": "Simple Node.js project to read and write files",
+    "main": "readandwritefile.js",
+    "type": "module",
+    "scripts": {
+        "start": "node readandwritefile.js"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "keywords": [],
+    "dependencies": {
+        "fs": "^0.0.1-security"
+    }
+}
