@@ -44,3 +44,5 @@ const appendFile = async (path, data) => {
     await appendFile("./example.txt", "This line was appended asynchronously.\n");
     await readFile("./example.txt");
 })();
+
+///added coments
